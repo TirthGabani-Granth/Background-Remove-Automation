@@ -1,0 +1,8 @@
+streamlit
+rembg
+pillow
+streamlit-drawable-canvas
+onnxruntime
+transformers
+torch
+torchvision
